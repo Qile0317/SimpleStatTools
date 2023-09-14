@@ -1,0 +1,16 @@
+Package: SimpleStatTools
+Type: Package
+Title: A small collection of tools to make stats simpler for beginners
+Version: 0.1.0
+Date: 2023-09-11
+Author: c(person("Qile", "Yang", email = "qile0317@gmail.com", role = c("cre","aut","cph")))
+Maintainer: Qile Yang <qile.yang@berkeley.edu>
+Description: Work in progress
+Depends:
+    R (>= 3.5.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+Language: en-US
+LazyData: false
+Imports: 
+    dplyr
